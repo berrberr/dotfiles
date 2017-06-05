@@ -1,0 +1,50 @@
+{
+	"binary_file_patterns":
+	[
+		"*.dds",
+		"*.eot",
+		"*.gif",
+		"*.ico",
+		"*.jar",
+		"*.jpeg",
+		"*.jpg",
+		"*.pdf",
+		"*.png",
+		"*.swf",
+		"*.tga",
+		"*.ttf",
+		"*.zip",
+		".git/**",
+		".sass-cache/**",
+		".yardoc/**"
+	],
+	"color_scheme": "Packages/Oceanic Next Color Scheme/Oceanic Next.tmTheme",
+	"ensure_newline_at_eof_on_save": true,
+	"find_selected_text": true,
+	"folder_exclude_patterns":
+	[
+		"-tmp/*",
+		"-*.csv",
+		"-*.log",
+		"-coverage/*",
+		"-*.min.js",
+		"-vendor/*",
+		"-public/",
+		"-dump/*",
+		"-bundles/*",
+		"-node_modules/*",
+		"-spec/fixtures/*",
+		"-doc/",
+		"-.yardoc/"
+	],
+	"font_size": 17,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"show_full_path": true,
+	"tab_size": 2,
+	"theme": "Cobalt2.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
+}

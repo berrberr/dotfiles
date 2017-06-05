@@ -1,0 +1,29 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AlignTab",
+		"Babel",
+		"Better CoffeeScript",
+		"Color Highlighter",
+		"Compare Side-By-Side",
+		"Cucumber",
+		"EditorConfig",
+		"Emmet",
+		"Git",
+		"JavaScriptNext - ES6 Syntax",
+		"jsfmt",
+		"Oceanic Next Color Scheme",
+		"Package Control",
+		"Pretty JSON",
+		"Sass",
+		"SideBarEnhancements",
+		"sublime-github",
+		"SublimeCodeIntel",
+		"Theme - Cobalt2",
+		"WordCount"
+	]
+}
