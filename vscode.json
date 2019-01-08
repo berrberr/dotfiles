@@ -1,0 +1,15 @@
+{
+    "workbench.colorTheme": "Oceanic Next",
+    "window.zoomLevel": -1,
+    "sublimeTextKeymap.promptV3Features": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.snippetSuggestions": "top",
+    "editor.tabSize": 2,
+    "files.insertFinalNewline": true,
+    "editor.find.seedSearchStringFromSelection": true,
+    "editor.fontSize": 16,
+    "window.title": "${activeEditorLong}${separator}${rootName}",
+    "files.trimTrailingWhitespace": true,
+    "explorer.confirmDragAndDrop": false,
+    "editor.formatOnPaste": true
+}
